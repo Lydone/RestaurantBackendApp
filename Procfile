@@ -1,0 +1,1 @@
+web: ./build/install/com.lydone.restaurantbackendapp/bin/com.lydone.restaurantbackendapp
